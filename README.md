@@ -26,11 +26,11 @@
   <table>
     <tr>
       <td align="center">
-        <img src="demo/Imported.gif" width="385"/><br>
+        <img src="demo/Imported.gif" width="375"/><br>
         <em>Imported</em>
       </td>
       <td align="center">
-        <img src="demo/Original.gif" width="400"/><br>
+        <img src="demo/Original.gif" width="390"/><br>
         <em>Original</em>
       </td>
     </tr>
