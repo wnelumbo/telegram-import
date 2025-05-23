@@ -1,5 +1,5 @@
 # Import to Telegram as import from WhatsApp
-⚡️ This tool can convert Telegram HTML backup to JSON, merge ```messages.json``` files and import back to.
+⚡️ This tool can convert Telegram HTML backup to JSON, merge ```messages.json``` files and import back.
 #### What is implemented in Import:
       Messages
       Stickers: static and animated
@@ -85,3 +85,5 @@ _Messages will appear in the chat after the last file is uploaded._
 #### 1. When entering 2FA, the password will not be shown in the console. Type it and press Enter.
 #### 2. You and your contact must be in each other's contacts for the import process to succeed without errors.
 #### 3. Large backups are best imported at night. I tested all the scripts on a conversation with 130,000 messages — 16,000 of which were files and the process took me 6 hours.
+#### 4. The message chronology only works for the first import; for subsequent ones, messages appear as new with the ```imported``` label.
+#### 5. On the second and subsequent imports, you may shift the timestamps of messages that were already imported or written.
