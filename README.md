@@ -23,6 +23,22 @@
       Custom emoji or premium reactions
 
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://drive.google.com/uc?id=1Obzv3npDzVkf2ZRRf1E24PhUJh9faPvl" alt="GIF 1" width="300"/>
+      <br />
+      <i>Imported</i>
+    </td>
+    <td align="center">
+      <img src="https://drive.google.com/uc?id=1DoEstydIRriefgJw4rubKgY91_k-o1CH" alt="GIF 2" width="300"/>
+      <br />
+      <i>Original</i>
+    </td>
+  </tr>
+</table>
+
+
 ## 🚀 Quick Start
 __Insert all scripts into the folder with your chat backup.__
 ### For ```Converter```
