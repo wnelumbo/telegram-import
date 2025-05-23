@@ -26,12 +26,12 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://drive.google.com/uc?id=1Obzv3npDzVkf2ZRRf1E24PhUJh9faPvl" alt="GIF 1" width="300"/>
+      <img src="https://drive.usercontent.google.com/download?id=1Obzv3npDzVkf2ZRRf1E24PhUJh9faPvl&authuser=0" alt="GIF 1" width="300"/>
       <br />
       <i>Imported</i>
     </td>
     <td align="center">
-      <img src="https://drive.google.com/uc?id=1DoEstydIRriefgJw4rubKgY91_k-o1CH" alt="GIF 2" width="300"/>
+      <img src="https://drive.usercontent.google.com/download?id=1DoEstydIRriefgJw4rubKgY91_k-o1CH&authuser=0" alt="GIF 2" width="300"/>
       <br />
       <i>Original</i>
     </td>
