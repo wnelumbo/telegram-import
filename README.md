@@ -22,22 +22,20 @@
       Edited messages
       Custom emoji or premium reactions
 
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://drive.usercontent.google.com/download?id=1Obzv3npDzVkf2ZRRf1E24PhUJh9faPvl&authuser=0" alt="GIF 1" width="300"/>
-      <br />
-      <i>Imported</i>
-    </td>
-    <td align="center">
-      <img src="https://drive.usercontent.google.com/download?id=1DoEstydIRriefgJw4rubKgY91_k-o1CH&authuser=0" alt="GIF 2" width="300"/>
-      <br />
-      <i>Original</i>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="demo/Imported.gif" width="385"/><br>
+        <em>Imported</em>
+      </td>
+      <td align="center">
+        <img src="demo/Original.gif" width="400"/><br>
+        <em>Original</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## 🚀 Quick Start
 __Insert all scripts into the folder with your chat backup.__
