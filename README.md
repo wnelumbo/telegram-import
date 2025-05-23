@@ -4,12 +4,16 @@ Conversion of HTML backup to JSON and subsequent import back into Telegram.
 <table>
   <tr>
     <td align="center">
-      <video src="demo/Original_Optimized.webm" width="600" autoplay loop muted playsinline></video>
-      <br><b>📤 Original (HTML export)</b>
+      <a href="demo/Original_Optimized.webm">
+        <img src="demo/preview_original.png" width="360"/><br>
+        📤 <b>Оригинал (HTML экспорт)</b>
+      </a>
     </td>
     <td align="center">
-      <video src="demo/Import_Optimized.webm" width="600" autoplay loop muted playsinline></video>
-      <br><b>📥 Imported into Telegram</b>
+      <a href="demo/Import_Optimized.webm">
+        <img src="demo/preview_import.png" width="360"/><br>
+        📥 <b>Импортировано в Telegram</b>
+      </a>
     </td>
   </tr>
 </table>
