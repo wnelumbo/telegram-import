@@ -12,6 +12,7 @@
       Locations (partially supported via GoogleMaps)
       Service messages: "Pinned message.." or "The topic has been changed.." (partially supported)
       Calls (partially supported)
+      Contacts (partially supported)
 
 #### What is not supported in any meaningful way or due to Telegram's limitations:
 
@@ -29,8 +30,8 @@ __Insert all scripts into the folder with your chat backup.__
 ```pip install beautifulsoup4 pillow mutagen tinytag moviepy```
 #### 2. Open the script and insert the names and IDs used in the backup:
     sender_map = {
-        "Test #1": "user111111111",
-        "Test #2": "user222222222"
+        "Test #1": "user111111111",  - You
+        "Test #2": "user222222222"  - Contact
     }
 ##### To get the user_id, message the bot at [UserInfoBot](t.me/userinfobot)
 
@@ -58,7 +59,7 @@ ___Before importing a full backup, it's best to test everything on a small conve
 ```pip install telethon tqdm python-dateutil```
 #### 2. Before running the import, insert your ```api_id``` and ```api_hash``` into the script.
     api_id, api_hash = ID, 'HASH'
-##### To ```api_id``` and ```api_hash```, log in to [My Telegram](https://my.telegram.org) and create a test application.
+##### To ```api_id``` and ```api_hash```, log in to [My Telegram website](https://my.telegram.org) and create a test application.
 #### 3. Run ```import.py``` with the following command:
 ```python "FOLDER_WHERE_SCRIPT_IS\import.py" --path "FOLDER_WHERE_RESULT_IS\result.json" --peer "@USERNAME"```
 
